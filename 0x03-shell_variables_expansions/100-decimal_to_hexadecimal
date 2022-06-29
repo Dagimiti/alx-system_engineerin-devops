@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((Dec2Hex$DECIMAL))
+echo $((Dec2hex$DECIMAL))
